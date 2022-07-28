@@ -10,9 +10,9 @@ I have build this website with my core HTML CSS skills
 
 ![image](./created.png)
 
-You can check out here: [Crypto Landing Page By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [Crypto Landing Page By Hitesh](https://crupto-landing-by-hitesh.netlify.app/)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45a8508a-78a9-48a6-9c43-c35346702f2f/deploy-status)](https://app.netlify.com/sites/crupto-landing-by-hitesh/deploys)
 
 ## What i have learned from this project
 
